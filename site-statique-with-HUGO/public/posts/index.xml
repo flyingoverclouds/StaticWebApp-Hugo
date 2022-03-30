@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Un super blog statique de démo avec Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Apr 2021 18:27:31 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Apr 2021 23:51:19 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quatrieme Billet</title>
+      <link>/posts/quatrieme-billet/</link>
+      <pubDate>Sun, 18 Apr 2021 23:51:19 +0200</pubDate>
+      
+      <guid>/posts/quatrieme-billet/</guid>
+      <description>Premier billet 4 premier sous titre 4 premier sous sous titre 4 Ben si en fait ! Avec un gout de vanille , voici la démo hugo pour StaticWebApp</description>
+    </item>
+    
     <item>
       <title>Troisieme Billet</title>
       <link>/posts/troisieme-billet/</link>
